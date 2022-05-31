@@ -4,6 +4,9 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: src/gallery.njk
+  label: test gallery
 - type: heading
   label: Content
 - type: directory
