@@ -4,11 +4,11 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: src/gallery.njk
-  label: test gallery
 - type: heading
   label: Content
+- type: document
+  path: src/gallery.md
+  label: test gallery
 - type: directory
   path: src/posts
   label: Posts
