@@ -2,6 +2,7 @@
 title: A simple post
 date: 2020-06-08
 tags:
+- ben
 - demo-content
 - simple-post
 - blog
