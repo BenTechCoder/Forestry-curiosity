@@ -8,10 +8,6 @@ tags:
 - blog
 
 ---
-A simple post to demonstrate how a normal blog post looks on Hylia. Content is
-all set in the “Body” field as markdown and Eleventy transforms it into a proper
-HTML post. You can also edit the markdown file directly if you prefer not to use
-the CMS.
 
 How about a `<blockquote>`?
 
@@ -32,6 +28,5 @@ How about an ordered list of stuff:
 3. Sed posuere consectetur est at lobortis
 
 Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
-
 
 <iframe width="711" height="400" src="https://www.youtube.com/embed/bimHms4pIjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
