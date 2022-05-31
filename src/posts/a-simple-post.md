@@ -33,6 +33,5 @@ How about an ordered list of stuff:
 
 Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
 
-[https://www.youtube.com/watch?v=bimHms4pIjc](https://www.youtube.com/watch?v=bimHms4pIjc "https://www.youtube.com/watch?v=bimHms4pIjc")
 
-<iframe width="711" height="400" src="[https://www.youtube.com/embed/bimHms4pIjc](https://www.youtube.com/embed/bimHms4pIjc "https://www.youtube.com/embed/bimHms4pIjc")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="711" height="400" src="https://www.youtube.com/embed/bimHms4pIjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
