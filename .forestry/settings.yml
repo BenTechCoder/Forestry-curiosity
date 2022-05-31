@@ -7,7 +7,6 @@ sections:
 - type: document
   path: src/gallery.njk
   label: test gallery
-  match: "**/*"
 - type: heading
   label: Content
 - type: directory
