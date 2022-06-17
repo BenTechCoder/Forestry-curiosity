@@ -20,3 +20,7 @@ fields:
   config:
     maxSize: 64
   label: image
+- name: tag
+  type: tag_list
+  default: []
+  label: tag
