@@ -6,6 +6,7 @@ tags:
 - demo-content
 - blog
 tag: []
+image: "/images/00000portrait_00000_burst20191210143228651.jpg"
 
 ---
 The best way to demo a code post is to display a real life post, so check out
